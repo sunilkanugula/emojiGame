@@ -1,0 +1,13 @@
+.inner-container {
+  padding: 30px;
+  background: linear-gradient(to right, #9796f0, #fbc7d4);
+  text-align: center;
+}
+.emoji-cards {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  flex-wrap: wrap;
+  list-style: none;
+  padding: 50px;
+}

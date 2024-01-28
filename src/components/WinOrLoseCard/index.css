@@ -1,0 +1,26 @@
+.game-result-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 80vh;
+}
+.main-heading {
+  color: white;
+}
+.result {
+  color: #6a59ff;
+}
+
+.win-or-lose-img {
+  height: 300px;
+  margin-left: 50px;
+}
+
+.play-again-button {
+  background-color: #ffce27;
+  color: white;
+  border: none;
+  padding: 10px;
+  border-radius: 10px;
+  font-size: 20px;
+}

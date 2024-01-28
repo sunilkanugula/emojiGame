@@ -1,0 +1,24 @@
+.navbar-container {
+  background-color: #9796f0;
+  display: flex;
+  justify-content: space-between;
+  padding: 0 30px;
+  align-items: center;
+}
+.logo-container {
+  display: flex;
+  flex-direction: row;
+  color: white;
+  align-items: center;
+}
+.logo-img {
+  height: 50px;
+}
+.score-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  color: white;
+  width: 200px;
+  font-weight: 500;
+}
